@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="41dp"
+    android:orientation="horizontal"
+    android:background="@color/snow">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/circleimg"
+        android:layout_marginTop="10dp"
+        android:layout_width="35dp"
+        android:layout_height="match_parent"
+        android:src="@drawable/welcome" />
+    <TextView
+        android:id="@+id/title_text"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_marginLeft="7dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:textSize="28sp"
+        android:gravity="left"
+        android:text="这是文本显示框"/>
+
+        <ImageButton
+            android:id="@+id/more"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="bottom"
+            android:background="@drawable/gengduo1" />
+
+
+</LinearLayout>

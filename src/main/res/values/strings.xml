@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">荒岛</string>
+    <string name="name">账号:</string>
+    <string name="password">密码:</string>
+    <string name="input">请输入你的昵称</string>
+    <string name="input_password">请输入你的密码</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="nickname">昵称:</string>
+    <string name="inputname">请输入你的昵称</string>
+    <string name="inputpassword">请输入你的密码</string>
+    <string name="gender">性别:</string>
+    <string name="man">男</string>
+    <string name="girl">女</string>
+    <string name="title_activity_help_wd">HelpWD</string>
+
+
+</resources>
